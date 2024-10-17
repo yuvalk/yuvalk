@@ -11,6 +11,6 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvalk&show_icons=true&theme=dracula&locale=en" alt="yuvalk" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvalk&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="yuvalk" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yuvalk)](https://github.com/ryo-ma/github-profile-trophy)
